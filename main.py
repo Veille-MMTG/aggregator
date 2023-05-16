@@ -32,7 +32,7 @@ def store_articles():
     googlenews = GoogleNews()
 
     # Set search query and language
-    search_query = 'large language models'
+    search_query = 'Large Language Models AI GPT LLama when:1d'
     language = 'en'
     googlenews.set_lang(language)
 
